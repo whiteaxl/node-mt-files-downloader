@@ -1,5 +1,5 @@
 {
-  "name": "mt-files-downloader",
+  "name": "easy-downloader",
   "version": "0.2.5",
   "description": "Download manager with multiple features : download stats, stop & resume, auto-retry (continue) in case of error, events, etc.",
   "main": "lib/Downloader.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leeroybrun/node-mt-files-downloader.git"
+    "url": "https://github.com/whiteaxl/node-mt-files-downloader.git"
   },
-  "author": "Leeroy Brun <leeroy.brun@gmail.com>",
+  "author": "White Axl  <while.axl@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/leeroybrun/node-mt-files-downloader/issues"
